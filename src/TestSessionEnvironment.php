@@ -21,7 +21,7 @@ use SilverStripe\Dev\YamlFixture;
 use SilverStripe\ORM\Connect\TempDatabase;
 use SilverStripe\ORM\DB;
 use SilverStripe\ORM\FieldType\DBDatetime;
-use SilverStripe\Versioned\Versioned;
+use SilverStripe\Versioned\Mode\Versioned;
 use Symfony\Component\Mailer\MailerInterface;
 use stdClass;
 
